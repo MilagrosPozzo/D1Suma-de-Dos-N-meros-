@@ -6,3 +6,9 @@ num2 = int (input())
 # Mostrar el resultado de la suma
 print("El resultado de la suma es:", resultado)
 print (num1 + num2)
+
+
+# Otro ejemplo
+n1=15
+n2=8
+suma=n1+n2
